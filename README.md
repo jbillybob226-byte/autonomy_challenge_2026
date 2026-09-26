@@ -1,4 +1,4 @@
-# autonomy team application challenge
+ # autonomy team application challenge
 
 the robot knows where it is, knows where it wants to go, and sees obstacles only a few metres ahead.
 drive to the goal without hitting anything, and keep going when the world changes.
